@@ -8,7 +8,7 @@ Buraya bir şeyler ekledim ama doğrumu birileri kontrol etsin
 
 /*
 
-
+var olan uygulama artık yeni kodlara sahip
 
 
 */
